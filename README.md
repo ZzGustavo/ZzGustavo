@@ -6,16 +6,16 @@ Gosto de mexer no códdigo alheio e descobrir como as coisas funcionam.
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+![](https://komarev.com/ghpvc/?username=ZzGustavo&color=006bed)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> 👨‍💻: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias.
 - 🎓 &nbsp; Estudando **Redes de Computador** na <a href="https://www.ufsm.br/">UFSM</a>.
 - 💼 &nbsp; Trabalhando como **Analista de Suporte Técnico** na <a href="https://bcseventos.com.br/">BCS Eventos</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Phyton**.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<!-- <h3> :rocket: &nbsp;Minhas Skills </h3> -->
 
 <!--
 ```kotlin
@@ -63,9 +63,9 @@ object **Gustavo** {
 
 #### Rede Sociais!
 
-🏡 [website][website] **|** 
+<!-- 🏡 [website][website] **|** -->
 🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
+<!-- 📺 [youtube][youtube] **|**  -->
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
