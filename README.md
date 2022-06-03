@@ -10,16 +10,12 @@ Gosto de mexer no códdigo alheio e descobrir como as coisas funcionam.
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🤔 &nbsp; Explorando novas tecnologias.
+- 🎓 &nbsp; Estudando **Redes de Computador** na <a href="https://www.ufsm.br/">UFSM</a>.
+- 💼 &nbsp; Trabalhando como **Analista de Suporte Técnico** na <a href="https://bcseventos.com.br/">BCS Eventos</a>
+- 🌱 &nbsp; Aprendendo mais sobre **Phyton**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
-<br/>
-
-
-
 
 <!--
 ```kotlin
@@ -34,7 +30,7 @@ object **Gustavo** {
 ```
 -->
 
-## **Linguagens e Ferramentas:**  
+### **Linguagens e Ferramentas:**  
 
 <!--<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
@@ -48,14 +44,12 @@ object **Gustavo** {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>-->
 
 
-## **GitHub Estatísticas**
+### **GitHub Estatísticas**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZzGustavo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/ZzGustavo">
+<!--<a href="https://github.com/ZzGustavo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZzGustavo&theme=dracula&hide_langs_below=1" />
 </a>
-
+-->
 <a href="https://github.com/ZzGustavo">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZzGustavo&show_icons=true&theme=dracula&line_height=27" alt="**Gustavo** github stats"/>
 </a>
