@@ -1,6 +1,6 @@
 ### Opa, tranquilo? 👋
 
-Gosto de mexer no códdigo alheio e descobrir como as coisas funcionam.
+Gosto de mexer no código alheio e descobrir como as coisas funcionam.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
