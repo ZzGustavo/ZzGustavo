@@ -61,13 +61,14 @@ object **Gustavo** {
 [linkedin]: https://www.linkedin.com/in/gustavo-lorenzato/
 <br>
 
+<!--
 #### Rede Sociais!
-<!-- 
-<!-- 🏡 [website][website] **|** -->
-🐦 [twitter][twitter] **|** 
-<!-- 📺 [youtube][youtube] **|**  -->
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+
+ 🏡 [website][website] **|** 
+ 🐦 [twitter][twitter] **|** 
+ 📺 [youtube][youtube] **|**  
+ 📷 [instagram][instagram] **|** 
+ 👔 [linkedin][linkedin]
 -->
 
 
