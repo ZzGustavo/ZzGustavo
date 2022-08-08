@@ -11,9 +11,9 @@ Gosto de mexer no código alheio e descobrir como as coisas funcionam.
 <h3> 👨‍💻: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias.
-- 🎓 &nbsp; Estudando **Redes de Computador** na <a href="https://www.ufsm.br/">UFSM</a>.
+- 🎓 &nbsp; Estudando **BACHARELADO EM SISTEMAS DE INFORMAÇÃO** na <a href="https://www.fadergs.edu.br/">FADERGS</a>.
 - 💼 &nbsp; Trabalhando como **Analista de Suporte Técnico** na <a href="https://bcseventos.com.br/">BCS Eventos</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Phyton**.
+- 🌱 &nbsp; Aprendendo mais sobre **Phyton / PHP**.
 
 <!-- <h3> :rocket: &nbsp;Minhas Skills </h3> -->
 
@@ -62,13 +62,13 @@ object **Gustavo** {
 <br>
 
 #### Rede Sociais!
-
+<!-- 
 <!-- 🏡 [website][website] **|** -->
 🐦 [twitter][twitter] **|** 
 <!-- 📺 [youtube][youtube] **|**  -->
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
-
+-->
 
 
 <!--
