@@ -13,7 +13,8 @@ Gosto de mexer no código alheio e descobrir como as coisas funcionam.
 - 🤔 &nbsp; Explorando novas tecnologias.
 - 🎓 &nbsp; Estudando **BACHARELADO EM SISTEMAS DE INFORMAÇÃO** na <a href="https://www.fadergs.edu.br/">FADERGS</a>.
 - 💼 &nbsp; Trabalhando como **Analista de Suporte Técnico** na <a href="https://bcseventos.com.br/">BCS Eventos</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Phyton / PHP**.
+- 🌱 &nbsp; Aprendendo mais sempre.
+<!--- 🌱 &nbsp; Aprendendo mais sobre **Phyton / PHP**. -->
 
 <!-- <h3> :rocket: &nbsp;Minhas Skills </h3> -->
 
@@ -35,8 +36,8 @@ object **Gustavo** {
 <!--<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>-->
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> -->
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
